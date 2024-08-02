@@ -1,0 +1,20 @@
+this.config = {
+    name: "format",
+    version: "7.3.1",
+    hasPermssion: 2,
+    credits: "Quất",
+    description: "running shell",
+    commandCategory: "Admin",
+    usages: "[shell]",
+    usePrefix: false,
+    cooldowns: 0
+}
+this.run = async ({ api: { sendMessage }, event: { threadID, messageID }, args }) => {
+    //vào shell nhập: npm install --save-dev --save-exact prettier 
+    let fs = require('fs'), dir = `modules/commands/cache/code.js`,
+        ex = v => require('child_process').exec(`prettier --write ${v}`, (a, b, c) => sendMessage(a ? `Không thể format: \n${a.message}` : c ? c :
+            `Format thành công code trong ${b.replace(v + ' ', '')}${args[0] == 'exports' ? '' : `\n${fs.readFileSync(v, 'utf8')}`}`, threadID, messageID))
+    if (args[0] == 'exports') return ex(args.slice(1).join(' '))
+    fs.writeFileSync(dir, args.join(' '), 'utf8')
+    ex(dir)
+}

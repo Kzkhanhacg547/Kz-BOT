@@ -1,0 +1,66 @@
+{
+    "100085279261059": {
+        "100085279261059": {
+            "currentCommand": "cos",
+            "previousCommand": null
+        }
+    },
+    "100081129610697": {
+        "100081129610697": {
+            "currentCommand": "sent",
+            "previousCommand": "sent"
+        }
+    },
+    "5049817048407021": {
+        "100081129610697": {
+            "currentCommand": "main",
+            "previousCommand": "load"
+        },
+        "100077683860695": {
+            "currentCommand": "autorequest",
+            "previousCommand": "autorequest"
+        },
+        "61560078916320": {
+            "currentCommand": "autorequest",
+            "previousCommand": null
+        }
+    },
+    "7247258395373607": {
+        "100081129610697": {
+            "currentCommand": "xemgio",
+            "previousCommand": "u"
+        },
+        "100053573223605": {
+            "currentCommand": "reload",
+            "previousCommand": "reload"
+        },
+        "100091423074096": {
+            "currentCommand": "u",
+            "previousCommand": "u"
+        }
+    },
+    "61562168903065": {
+        "61562168903065": {
+            "currentCommand": "ad",
+            "previousCommand": "ad"
+        }
+    },
+    "7784073214980125": {
+        "100081129610697": {
+            "currentCommand": "checkcam",
+            "previousCommand": "sing2"
+        }
+    },
+    "7977935142267138": {
+        "61562168903065": {
+            "currentCommand": "bautroi",
+            "previousCommand": "bautroi"
+        }
+    },
+    "6266824660021197": {
+        "100081129610697": {
+            "currentCommand": "",
+            "previousCommand": "load"
+        }
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "version": "1.2.14",
+    "notiGroup": true,
+    "NOTIFICATION": true,
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "accpetPending": false,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "autoClear": [],
+    "adminOnly": false,
+    "duyetbox": true,
+    "encryptSt": false,
+    "UPTIME": 180167.04491070402,
+    "autoRestart": 0,
+    "commandDisabled": [
+        "simvoice.js",
+        "sim.js"
+    ],
+    "eventDisabled": [],
+    "configApi": {
+        "domain1": "https://a09ca42b-124e-40f1-b214-f5ea6e941f1f-00-1ma540xawbrz7.pike.replit.dev/"
+    },
+    "API": {
+        "domain1": "https://a09ca42b-124e-40f1-b214-f5ea6e941f1f-00-1ma540xawbrz7.pike.replit.dev/"
+    },
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Kz BOT",
+    "PREFIX": ",",
+    "ADMINBOT": [
+        "100081129610697",
+        "100085279261059",
+        "",
+        "61562168903065",
+        "",
+        "",
+        ""
+    ],
+    "NDH": [
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "online": true
+    },
+    "antinamebot": {
+        "status": true
+    },
+    "cauca": {
+        "APIKEY": ""
+    },
+    "cave": {
+        "cooldownTime": 100000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 50000,
+        "rewardUsages": 100
+    },
+    "fb": {
+        "API_KEY": "FI6bX3kC"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 220
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "poke": {
+        "APIKEY": ""
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sim": {
+        "APIKEY": "API-1234-abcd-1234-abcd"
+    },
+    "sub": {
+        "APIKEY": ""
+    },
+    "work": {
+        "cooldownTime": 150000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "zombie": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": "",
+        "sendNoti": true,
+        "timeToUnsend": 20
+    },
+    "log": {
+        "enable": true
+    },
+    "album": {
+        "cooldownTime": ""
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "diemdanh": {
+        "cooldownTime": 86400000,
+        "rewardCoin": 5000,
+        "rewardExp": 1000
+    },
+    "gamelq": {
+        "cooldownTime": 60
+    },
+    "hamster": {
+        "cooldownTime": 60
+    },
+    "helps": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "images": {
+        "cooldownTime": 1200000
+    },
+    "lamviec": {
+        "cooldownTime": 1200000
+    },
+    "listmdl": {
+        "autoUnsend": "",
+        "delayUnsend": 220
+    },
+    "lixi": {
+        "cooldownTime": 1200000
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "randomname": {
+        "APIKEY": "mi451266190"
+    },
+    "shortvd": {
+        "APIKEY": "XSemUp2Zv5"
+    },
+    "song": {
+        "YOUTUBE_API": "AIzaSyAwzbcb-6QAzgZtl4qf3Z2GhQ3mqrbbMR8"
+    },
+    "sos": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        },
+        "sendAttachments": {
+            "status": false,
+            "random": false,
+            "url": "https://i.imgur.com/oQAygX7.png"
+        }
+    },
+    "spamcmt": {
+        "spamDelay": 1.5
+    },
+    "subnau": {
+        "APIKEY": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "tikinfo": {
+        "apikey": "fOeckmtu"
+    },
+    "vieclam": {
+        "cooldownTime": ""
+    },
+    "voice": {
+        "zalo_apikey": "O3ZIaECtEiEEvdhCiimFjzLDoThTMsgn",
+        "fpt_apikey": "O3ZIaECtEiEEvdhCiimFjzLDoThTMsgn"
+    },
+    "ytb": {
+        "YOUTUBE_API": "AIzaSyB_wr-MlKsiZbrT5IAbXlfu9Qrd5kBcnMo"
+    },
+    "ytmp3": {
+        "YOUTUBE_API": "AIzaSyA25_Ne0gD1DeciKIM8PzZBLvQ0MgGRlr0"
+    },
+    "đuaxe": {
+        "key": "cuongngu"
+    },
+    "leave": {
+        "status": false,
+        "number": 0
+    },
+    "sub1": {
+        "cooldownTime": 60000
+    }
+}

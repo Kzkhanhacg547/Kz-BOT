@@ -1,0 +1,58 @@
+{
+    "user": [
+        {
+            "userID": "100081129610697",
+            "messenger": {
+                "day": 0,
+                "week": 0,
+                "all": 149
+            },
+            "timestamp": 1719545688134
+        },
+        {
+            "userID": "100077683860695",
+            "messenger": {
+                "day": 0,
+                "week": 0,
+                "all": 20
+            },
+            "timestamp": 1719545688134
+        },
+        {
+            "userID": "100053573223605",
+            "messenger": {
+                "day": 0,
+                "week": 0,
+                "all": 0
+            },
+            "timestamp": 1719545688134
+        },
+        {
+            "userID": "61560078916320",
+            "messenger": {
+                "day": 0,
+                "week": 0,
+                "all": 0
+            },
+            "timestamp": 1719576170152
+        },
+        {
+            "userID": "61561221344662",
+            "messenger": {
+                "day": 0,
+                "week": 0,
+                "all": 0
+            },
+            "timestamp": 1719585088821
+        },
+        {
+            "userID": "61561553793539",
+            "messenger": {
+                "day": 0,
+                "week": 0,
+                "all": 0
+            },
+            "timestamp": 1719586901894
+        }
+    ]
+}
